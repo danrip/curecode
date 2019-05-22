@@ -1,0 +1,167 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "72a3dd7b2d4863f8aa76e8a0e9884267de0bee4d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CureCode/1.0.0": {
+        "dependencies": {
+          "SixLabors.ImageSharp": "1.0.0-beta0006",
+          "SixLabors.ImageSharp.Drawing": "1.0.0-beta0006",
+          "simplexcel": "2.2.1.71",
+          "ZXing.Net": "0.16.4"
+        },
+        "runtime": {
+          "CureCode.dll": {}
+        }
+      },
+      "simplexcel/2.2.1.71": {
+        "runtime": {
+          "lib/netstandard2.0/Simplexcel.dll": {
+            "assemblyVersion": "2.2.1.71",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "SixLabors.Core/1.0.0-beta0007": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/SixLabors.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.Fonts/1.0.0-beta0008": {
+        "dependencies": {
+          "SixLabors.Core": "1.0.0-beta0007"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SixLabors.Fonts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/1.0.0-beta0006": {
+        "dependencies": {
+          "SixLabors.Core": "1.0.0-beta0007",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp.Drawing/1.0.0-beta0006": {
+        "dependencies": {
+          "SixLabors.Fonts": "1.0.0-beta0008",
+          "SixLabors.ImageSharp": "1.0.0-beta0006",
+          "SixLabors.Shapes": "1.0.0-beta0008"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SixLabors.ImageSharp.Drawing.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.Shapes/1.0.0-beta0008": {
+        "dependencies": {
+          "SixLabors.Core": "1.0.0-beta0007"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SixLabors.Shapes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "ZXing.Net/0.16.4": {
+        "runtime": {
+          "lib/netstandard2.0/zxing.dll": {
+            "assemblyVersion": "0.16.4.0",
+            "fileVersion": "0.16.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CureCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "simplexcel/2.2.1.71": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PPo44nM5XS0U8pHrMWVM2Rjmep5yb4SfsX4HCBf541NABud1gC7gbHFixD1v/PvoiRAwdd9WUP11bhbpdamvWA==",
+      "path": "simplexcel/2.2.1.71",
+      "hashPath": "simplexcel.2.2.1.71.nupkg.sha512"
+    },
+    "SixLabors.Core/1.0.0-beta0007": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c6n9x8AM5DN6WbbqHb2iDV7nwqmlViLp+y9dxerLoeFgXOfgSdsrAX4/gb8hQN3GamHc5pd3zm/OpCCH5W08LQ==",
+      "path": "sixlabors.core/1.0.0-beta0007",
+      "hashPath": "sixlabors.core.1.0.0-beta0007.nupkg.sha512"
+    },
+    "SixLabors.Fonts/1.0.0-beta0008": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y0Q91JIm/JGo6XVyFlTleoWHi6dSFuxm3BZS2mhfNxQoTTPj5fdkRbx77No03r3LbU0sS83Wcm/LFugCr6WyDQ==",
+      "path": "sixlabors.fonts/1.0.0-beta0008",
+      "hashPath": "sixlabors.fonts.1.0.0-beta0008.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/1.0.0-beta0006": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HvkLryWzF+522z5l//cvmwge1rlCAxezePUzD/RLE1Xggirbk8SYZaMaHtiTiATQgRG8YUOpu27q4scR2hbUPw==",
+      "path": "sixlabors.imagesharp/1.0.0-beta0006",
+      "hashPath": "sixlabors.imagesharp.1.0.0-beta0006.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp.Drawing/1.0.0-beta0006": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fNEBjEsT93cTYanHvzkcUPe/M2ToDwIXBYt/aD2GoxcuaCyAaXgSq/VamRALhfL76B0eZVkt0TRemJX1K8qhpw==",
+      "path": "sixlabors.imagesharp.drawing/1.0.0-beta0006",
+      "hashPath": "sixlabors.imagesharp.drawing.1.0.0-beta0006.nupkg.sha512"
+    },
+    "SixLabors.Shapes/1.0.0-beta0008": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OfNlpB8q5PodcFpqpRCjtsEaKHtPjV9RqnI66p+3Qg08t3ghQTAfAqrdDdIoKTUUJEEIqyBL37sKBwU1H/8vew==",
+      "path": "sixlabors.shapes/1.0.0-beta0008",
+      "hashPath": "sixlabors.shapes.1.0.0-beta0008.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qUJMNWhbm9oZ3XaMFiEMiYmRPszbnXIkRIi7+4b2Md2xZ6JUOepf0/kY3S85qistRohl9OdMe4PsO+RdG2kTIQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    },
+    "ZXing.Net/0.16.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qf5XDrWsxXvINh1kPUwVx8uPsvjGLRqw23a21C8scpgIsXnduKS1phBMf959Y5TrtFfFwvjRaZoZ4VRV51VdFg==",
+      "path": "zxing.net/0.16.4",
+      "hashPath": "zxing.net.0.16.4.nupkg.sha512"
+    }
+  }
+}

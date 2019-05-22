@@ -1,0 +1,11 @@
+/Users/danielripoll/Projects/CureCode/bin/Debug/netcoreapp2.2/CureCode.deps.json
+/Users/danielripoll/Projects/CureCode/bin/Debug/netcoreapp2.2/CureCode.runtimeconfig.json
+/Users/danielripoll/Projects/CureCode/bin/Debug/netcoreapp2.2/CureCode.runtimeconfig.dev.json
+/Users/danielripoll/Projects/CureCode/bin/Debug/netcoreapp2.2/CureCode.dll
+/Users/danielripoll/Projects/CureCode/bin/Debug/netcoreapp2.2/CureCode.pdb
+/Users/danielripoll/Projects/CureCode/obj/Debug/netcoreapp2.2/CureCode.csprojAssemblyReference.cache
+/Users/danielripoll/Projects/CureCode/obj/Debug/netcoreapp2.2/CureCode.csproj.CoreCompileInputs.cache
+/Users/danielripoll/Projects/CureCode/obj/Debug/netcoreapp2.2/CureCode.AssemblyInfoInputs.cache
+/Users/danielripoll/Projects/CureCode/obj/Debug/netcoreapp2.2/CureCode.AssemblyInfo.cs
+/Users/danielripoll/Projects/CureCode/obj/Debug/netcoreapp2.2/CureCode.dll
+/Users/danielripoll/Projects/CureCode/obj/Debug/netcoreapp2.2/CureCode.pdb
